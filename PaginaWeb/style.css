@@ -2,5 +2,14 @@ body{
     margin: 0;
     background-color: beige;
     background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: 'Times New Roman';
+}
+
+header{
+    width: 100%;
+    
 }
 
